@@ -1,5 +1,8 @@
 # OpenAI GPT
-
+[![LICENSE](https://img.shields.io/github/license/lyeoni/gpt-pytorch?style=flat-square)](https://github.com/lyeoni/gpt-pytorch/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/lyeoni/gpt-pytorch?style=flat-square)](https://github.com/lyeoni/gpt-pytorch/issues)
+[![GitHub stars](https://img.shields.io/github/stars/lyeoni/gpt-pytorch?style=flat-square&color=important)](https://github.com/lyeoni/gpt-pytorch/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/lyeoni/gpt-pytorch?style=flat-square&color=blueviolet)](https://github.com/lyeoni/gpt-pytorch/network/members)
 PyTorch Implementation of OpenAI GPT
 
 <p align="center"><img width= 70 src="https://pytorch.org/assets/images/logo-icon.svg"></p>
